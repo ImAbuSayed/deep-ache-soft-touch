@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-ache-soft-touch/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Deep Ache Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-ache-soft-touch/) |
+| **Get License** | [Official Music Licensing for Deep Ache Soft Touch](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-ache-soft-touch/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Lost in the glow of the dashboard light
+> Pulling you close in the cool of the night
+> Every breath is a spark in the dark
+> Leaving a mark on my wandering heart
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
